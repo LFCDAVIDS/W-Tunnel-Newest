@@ -17,12 +17,17 @@ body {
 
 /* Header */
 header {
-    background-color: blue;
+    background-color: black;
+}
+
+h1 {
+font-family: 'Oswald', sans-serif;
 }
 
 /* Main Cont */
 main {
     background-color: aqua;
+    flex: 1 0 auto;
 }
 
 /* Footer */
